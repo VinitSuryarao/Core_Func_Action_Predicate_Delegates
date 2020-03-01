@@ -1,0 +1,11 @@
+E:\Programs\Func_Action_Predicate_Delegates\bin\Debug\netcoreapp3.1\Func_Action_Predicate_Delegates.exe
+E:\Programs\Func_Action_Predicate_Delegates\bin\Debug\netcoreapp3.1\Func_Action_Predicate_Delegates.deps.json
+E:\Programs\Func_Action_Predicate_Delegates\bin\Debug\netcoreapp3.1\Func_Action_Predicate_Delegates.runtimeconfig.json
+E:\Programs\Func_Action_Predicate_Delegates\bin\Debug\netcoreapp3.1\Func_Action_Predicate_Delegates.runtimeconfig.dev.json
+E:\Programs\Func_Action_Predicate_Delegates\bin\Debug\netcoreapp3.1\Func_Action_Predicate_Delegates.dll
+E:\Programs\Func_Action_Predicate_Delegates\bin\Debug\netcoreapp3.1\Func_Action_Predicate_Delegates.pdb
+E:\Programs\Func_Action_Predicate_Delegates\obj\Debug\netcoreapp3.1\Func_Action_Predicate_Delegates.csprojAssemblyReference.cache
+E:\Programs\Func_Action_Predicate_Delegates\obj\Debug\netcoreapp3.1\Func_Action_Predicate_Delegates.AssemblyInfoInputs.cache
+E:\Programs\Func_Action_Predicate_Delegates\obj\Debug\netcoreapp3.1\Func_Action_Predicate_Delegates.AssemblyInfo.cs
+E:\Programs\Func_Action_Predicate_Delegates\obj\Debug\netcoreapp3.1\Func_Action_Predicate_Delegates.dll
+E:\Programs\Func_Action_Predicate_Delegates\obj\Debug\netcoreapp3.1\Func_Action_Predicate_Delegates.pdb
